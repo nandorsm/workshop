@@ -1,2 +1,2 @@
 print("Hello World")
-str(input("qual o seu nome?"))
+nome = str(input("qual o seu nome?"))
